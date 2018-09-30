@@ -1,2 +1,2 @@
-# about_vue
-the learning of vue
+# the progs & cons of vue
+there are some of my view:
